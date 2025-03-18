@@ -25,6 +25,7 @@ folium==0.19.5
 fonttools==4.56.0
 fsspec==2025.2.0
 geopandas==1.0.1
+gunicorn==23.0.0
 idna==3.10
 importlib_metadata==8.6.1
 ipykernel==6.29.5
@@ -61,6 +62,7 @@ pyparsing==3.2.1
 pyproj==3.7.1
 python-dateutil==2.9.0.post0
 pytz==2025.1
+pywin32==308
 pyzmq==26.2.1
 referencing==0.36.2
 requests==2.32.3
