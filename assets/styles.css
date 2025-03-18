@@ -1,0 +1,39 @@
+body {
+    font-family: "mr-eaves-sans", sans-serif;
+    font-weight: 100;
+    font-style: normal;
+}
+
+.data-table-cell {
+    font-family: 'mr-eaves-sans', sans-serif;
+    font-size: 10px;
+    font-weight: 100;
+    font-style: italic;
+    text-align: center;
+}
+
+h1 {
+    font-family: "mr-eaves-sans", sans-serif;
+    font-weight: 100;
+    font-style: normal;
+}
+
+p {
+    font-family: "mr-eaves-sans", sans-serif;
+    font-weight: 100;
+    font-style: normal;
+}
+
+.card-title-custom {
+    font-family: "mr-eaves-sans", sans-serif;
+    font-size: 16px;
+    font-weight: 400;
+    font-style: bold;
+}
+
+.card-text-custom {
+    font-family: "mr-eaves-sans", sans-serif;
+    font-size: 14px;
+    font-weight: 100;
+    font-style: normal;
+}
